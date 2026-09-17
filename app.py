@@ -70,7 +70,7 @@ def setup_database():
         "price": "REAL DEFAULT 0",
         "reorder_level": "INTEGER DEFAULT 5",
         "cost_price": "REAL DEFAULT 0",
-        "selling_price": "REAL DEFAULT 0" 
+        "selling_price": "REAL DEFAULT 0", 
         "min_stock": "INTEGER DEFAULT 5"
     }
 
